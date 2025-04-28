@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    color: white; 
+    
+}
+body{
+      margin: 0;
+      height: 100vh;
+      background-image: url('https://w.wallhaven.cc/full/vq/wallhaven-vq898p.png'); /* Pfad zum Bild */
+      background-size: cover;     /* Bild füllt den ganzen Hintergrund */
+      background-position: center; /* Bild ist zentriert */
+      background-repeat: no-repeat; /* Bild wird nicht wiederholt */
+      width: 100%;
+      background-size: cover;
+}
+.die {
+    font-size: 40px;
+    padding-top: 9px;
+    padding-bottom: 33px;
+    text-align: center;
+}
+.cool{
+    text-align: center;
+}
+.das{ 
+    width: 800px;
+    font-size: 20px;
+    border-radius: 30px;
+    backdrop-filter: blur(5px); 
+    border: #000000;
+}
+.wer{
+    font-size: 18px;
+    border-radius: 12px;
+    border: none;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 23px;
+    padding-right: 23px;
+    color: black;
+    margin-top: 23px;
+    width: 320px;
+    outline: none;
+}
+.wer:hover{
+    background-color: #e2e2e2;
+}
+.torr{
+    margin-right: 2px;
+    margin-left: 2px;
+}
+.log{
+    font-size: 14px;
+}
+.an{
+    display: flex;
+    justify-content: space-between;;
+    align-items: center;
+    margin-top: 19px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.red {
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 38%;
+    right: 38%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.pop{ 
+    display: flex;
+    font-size: 14px;
+}
+.log{
+    text-align: center;
+}
+.log{
+    font-size: 14.5x;
+}
+.damit{
+    text-decoration: none;
+}
+.damit:hover{
+    border-bottom: 1px solid white;
+}
+.you{
+    color: black;
+    font-size: 20px; 
+    padding-top: 8px;
+    margin-top: 15px;
+    padding-bottom: 8px;
+    padding-left: 155px;
+    padding-right: 155px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+.you:hover{
+    color: white;
+    background-color: #5d83ff;
+}
+.bay{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+.er{
+    text-decoration: none;
+}
+.er:hover{
+    border-bottom: 1px solid white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
